@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Zelda Weapons Wiki</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="about_name_title">Name : Christoffel Daniel Y. Tambunan</string>
+    <string name="about_email_title">Email : christoffeltambunan54@gmail.com</string>
+
+    <string name="weapons_name">Weapon\'s name</string>
+    <string-array name="data_name">
+        <item>Master Sword</item>
+        <item>Zora Sword</item>
+        <item>Boulder Breaker</item>
+        <item>Falcon Bow</item>
+        <item>Strong Zonaite Spear</item>
+        <item>Royal Broadsword</item>
+        <item>Gnarled Thick Stick</item>
+        <item>Steel Lizal Bow</item>
+        <item>Hylian Shield</item>
+        <item>Savage Lynel Shield</item>
+    </string-array>
+
+    <string name="description">Description</string>
+    <string name="desc_test">Savage Lynel Shield is a Shield in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</string>
+
+    <string-array name="data_description">
+        <item>Master Sword is a One-Handed Weapon in Zelda Tears of the Kingdom.Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Zora Sword is a One-Handed Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Boulder Breaker is a Two-Handed Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Falcon Bow is a Bow Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Strong Zonaite Spear is a Spear Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Royal Broadsword is a One-Handed Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Gnarled Thick Stick is a Two-Handed Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Steel Lizal Bow is a Bow Weapon in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Hylian Shield is a Shield in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+        <item>Savage Lynel Shield is a Shield in Zelda Tears of the Kingdom. Weapons in Zelda TotK feature a diverse set of weapons, each having its own stats, strengths, and weaknesses. Players must remember that weapons will eventually break once their health starts to chip when it is used, however, luckily, weapons can be easily found by looting chests, destroying grass, stealing it from enemies, and crafting or infusing different weapons or materials.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/master-sword-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/zora-sword-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/boulder-breaker-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/falcon-bow-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/strong-zonaite-spear-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/royal-broadsword-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/gnarled-thick-stick-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/steel-lizal-bow-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/hylian-shield-weapon-zelda-totk-wiki-guide.png</item>
+        <item>https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/savage-lynel-shield-weapon-zelda-totk-wiki-guide.png</item>
+    </string-array>
+
+    <string name="weapon_location">Weapon\'s Location</string>
+    <string-array name="data_location">
+        <item>Lodged in the forehead of the Light Dragon that roams above Hyrule. Requires 2 Full Stamina Wheels to pull out. Temporary increases to Stamina such as those provided by Food do not count for this, only permanent upgrades from acquiring Stamina Vessels.</item>
+        <item>Lanayru Great Spring</item>
+        <item>Goron City</item>
+        <item>Tabantha Frontier, and Hebra Mountains</item>
+        <item>Lanaryu Sky Archipelago, and Lomei Labyrinth Island</item>
+        <item>Hyrule Castle, and Gerudo Highlands Depths</item>
+        <item>East Necluda, and Gerudo Highlands</item>
+        <item>Gerudo Highlands Depths, and Central Hyrule Depths</item>
+        <item>Hyrule Castle (Docks, Hyrule Field)</item>
+        <item>Akkala Highlands, and Central Hyrule Depths</item>
+    </string-array>
+
+    <string name="weapon_power">Weapon\'s Power</string>
+    <string-array name="data_power">
+        <item>--</item>
+        <item>6</item>
+        <item>38</item>
+        <item>14</item>
+        <item>6</item>
+        <item>10</item>
+        <item>19</item>
+        <item>36</item>
+        <item>90</item>
+        <item>62    </item>
+    </string-array>
+</resources>
